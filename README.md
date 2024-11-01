@@ -82,7 +82,7 @@ Security Audits: Ideal for security researchers auditing applications for miscon
 Application Testing: Aids developers and testers in verifying that secrets are not accidentally pushed to production.
 
 
-Contributing
+# Contributing
 
 Contributions are welcome! Feel free to submit a pull request or create an issue for suggestions and improvements.
 
