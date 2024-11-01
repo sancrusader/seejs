@@ -4,7 +4,7 @@ This Go-based tool analyzes JavaScript files from a list of URLs to identify pot
 
 # Features
 
-API Key Detection: Identifies Google Maps, AWS, Azure, Stripe, Twilio, GitHub, Firebase, Slack, Dropbox, Facebook, PayPal, Mailgun, SendGrid, Mailchimp, Telegram, and other popular API keys.
+API Key Detection: Identifies Google Maps, AWS, Azure, Stripe, Twilio, GitHub, Firebase, Slack and other popular API keys.
 
 Advanced Regex Matching: Uses complex regex patterns to capture various API key formats and secret tokens.
 
